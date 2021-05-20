@@ -1,0 +1,16 @@
+{
+  "name": "internet-booth",
+  "version": "1.0.0",
+  "description": "Calculate the amount to pay in an internet booth",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/Internet_booth"
+  },
+ 
+  "keywords": ["js","javascript","calculation","total","hour","internet","booth"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
